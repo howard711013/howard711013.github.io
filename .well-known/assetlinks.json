@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tutk.hausetopia.android",
+    "sha256_cert_fingerprints":
+    ["B4:3C:3B:73:FD:2C:B6:3A:0F:2A:19:97:B3:83:1E:C3:B7:4B:94:BC:C5:B4:90:55:2E:F6:2D:65:E4:90:0A:50"]
+  }
+}]
